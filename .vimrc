@@ -1,4 +1,10 @@
 " https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
+"
+" How to set up git to track and manage changes
+"
+" https://www.ackama.com/what-we-think/the-best-way-to-store-your-dotfiles-a-bare-git-repository-explained/
+"
+"
 
 
 " Disable compatibility with vi which can cause unexpected issues.
