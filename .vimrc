@@ -23,7 +23,11 @@ filetype indent on
 syntax on
 
 " Add numbers to each line on the left-hand side.
-set number
+" set number
+
+" this sets the line and the relative number from the line.
+set number relativenumber
+
 
 " Highlight cursor line underneath the cursor horizontally.
 " set cursorline
